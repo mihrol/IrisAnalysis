@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#Ignoring .Rproj
+IrisAnalysis.Rproj
+
+#Ignoring renv
+renv.lock
